@@ -1,0 +1,16 @@
+package Libertad
+
+import java.io.File
+
+fun main() {
+    val fileName = "main"
+    println("Processing ${fileName} in Libertad")
+
+    val file = File(fileName)
+    if (file.exists()) {
+        val lines = file.readLines()
+        println("Read ${lines.size} lines")
+    } else {
+        println("File does not exist")
+    }
+}
