@@ -29,3 +29,5 @@ Generated documentation for Libertad.
 # PR Merge: 2025-10-16 - enhancement/merge-8387
 
 # PR Merge: 2025-10-16 - docs/merge-7314
+
+# PR Merge: 2025-10-16 - feature/merge-5238
