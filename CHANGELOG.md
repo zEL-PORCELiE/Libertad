@@ -33,3 +33,5 @@ Generated documentation for Libertad.
 # PR Merge: 2025-10-16 - feature/merge-5238
 
 # PR Merge: 2025-10-16 - docs/merge-8452
+
+# PR Update: 2025-10-16 - fix/update-6933
