@@ -114,3 +114,5 @@ fun main() {
 # PR Merge: 2025-10-16 - refactor/merge-2812
 
 # PR Merge: 2025-10-16 - feature/merge-6560
+
+# PR Merge: 2025-10-16 - fix/merge-1020
